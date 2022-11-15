@@ -1,0 +1,7 @@
+body {
+    background-color: blueviolet;
+}
+
+header#img {
+    background-image: url("../imagens/frame-iphone.png");
+}
