@@ -47,12 +47,17 @@ section#rede-sociais img {
     border-radius: 50%;
     box-sizing: border-box;
     
+    
 }
 
 section#rede-sociais img:hover {
     border: 2px solid white;
     transform: translate(-4px -4px);
 
+}
+
+a {
+    background-size: cover;
 }
 
 
