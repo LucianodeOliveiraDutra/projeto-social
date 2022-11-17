@@ -43,8 +43,16 @@ iframe#tela {
 
 section#rede-sociais img {
     width: 80px;
+    margin: 10px;
     border-radius: 50%;
+    box-sizing: border-box;
     
+}
+
+section#rede-sociais img:hover {
+    border: 2px solid white;
+    transform: translate(-4px -4px);
+
 }
 
 
